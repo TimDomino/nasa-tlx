@@ -1,4 +1,4 @@
-# Perspective Taking/Spatial Orientation Test
+# NASA-TLX
 Simplistic electronic version of the "NASA Task Load Index" without subscale weighting (often referred to as Raw TLX) by Hart and Staveland. It avoids the need of collecting the participants' responses on a sheet of paper. Related literature:
 
  * Hart, S. G., & Staveland, L. E. (1988). Development of NASA-TLX (Task Load Index): Results of empirical and theoretical research. In Advances in psychology (Vol. 52, pp. 139-183). North-Holland.
